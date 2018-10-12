@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/bai kiem tra/bai-tap-4/cmake-build-debug/CMakeFiles/bai_tap_4.dir
+C:/Users/Admin/Desktop/bai kiem tra/bai-tap-4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/bai kiem tra/bai-tap-4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
